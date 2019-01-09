@@ -10,11 +10,11 @@ The JAR file is installed to the local .m2 repository.
 Copy the folder into the releases folder and commit to github.
 
 To use this repository in your own Maven project:
-<repository>
-      <id>ngu</id>
-      <name>NGU Maven Repository</name>
-      <url>https://github.com/ngu/ngu-mvn-repo/tree/master/releases/</url>
-</repository>
+&lt;repository>      
+    &lt;id>ngu&lt;/id>    
+    &lt;name>NGU Maven Repository&lt;/name>    
+    &lt;url>https://github.com/ngu/ngu-mvn-repo/tree/master/releases/&lt;/url>
+&lt;/repository>
 
 
 * Rometools while we wait for https://github.com/rometools/rome/pull/409
