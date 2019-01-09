@@ -14,7 +14,7 @@ To use this repository in your own Maven project:
 &lt;repository>      
 &lt;id>ngu&lt;/id>    
 &lt;name>NGU Maven Repository&lt;/name>    
-&lt;url>https://github.com/ngu/ngu-mvn-repo/tree/master/releases/&lt;/url>
+&lt;url>https://github.com/ngu/ngu-mvn-repo/tree/master/releases/ &lt;/url>
 &lt;/repository>
 
 
