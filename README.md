@@ -10,6 +10,7 @@ The JAR file is installed to the local .m2 repository.
 Copy the folder into the releases folder and commit to github.
 
 To use this repository in your own Maven project:
+
 &lt;repository>      
     &lt;id>ngu&lt;/id>    
     &lt;name>NGU Maven Repository&lt;/name>    
