@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>no.ngu.rometools</groupId>
+  <artifactId>rome-modules</artifactId>
+  <versioning>
+    <versions>
+      <version>1.12.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190107103943</lastUpdated>
+  </versioning>
+</metadata>
