@@ -10,4 +10,4 @@ The JAR file is installed to the local .m2 repository.
 Copy the folder into the releases folder and commit to github.
 
 
-## Rometools while we wait for https://github.com/rometools/rome/pull/409
+** Rometools while we wait for https://github.com/rometools/rome/pull/409
