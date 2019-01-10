@@ -18,4 +18,5 @@ To use this repository in your own Maven project:
 &lt;/repository>
 
 
-* Rometools while we wait for https://github.com/rometools/rome/pull/409
+## This repository consists of:
+* rometools - while we wait for https://github.com/rometools/rome/pull/409
